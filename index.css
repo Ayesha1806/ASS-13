@@ -1,0 +1,20 @@
+#imageGallery {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 600px;
+    overflow: hidden;
+  }
+  
+  #imageGallery img {
+    height: 400px;
+    width: 600px;
+  }
+  
+  #timer {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 10px;
+  }
+  
